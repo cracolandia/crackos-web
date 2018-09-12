@@ -1,2 +1,2 @@
-# crackos-web
-Web App do CrackOS
+# os-web
+Web App do OS-web
